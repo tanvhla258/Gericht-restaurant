@@ -1,1 +1,1 @@
-Link: gericht-restaurant-silk.vercel.app
+Link: http://gericht-restaurant-silk.vercel.app/
